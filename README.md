@@ -7,3 +7,8 @@ In this project i applied clustering algorithms in mall customers dataset. I got
 - Sklearn
 - Scipy
 - Warnings
+## Elbow Method
+<img src="Images/Elbow_Method.png" alt="Elbow Method">
+
+## Dendrogram
+<img src="Images/Dendrogram.png" alt="Dendrogram">
